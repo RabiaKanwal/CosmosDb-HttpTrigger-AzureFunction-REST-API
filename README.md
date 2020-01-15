@@ -3,6 +3,8 @@
 In this project i expose the data stored in CosmosDB via a REST API built with Azure Functions.
 
 
+
+
 ![Cosmos](https://github.com/RabiaKanwal/Cosmos-HttpTrigger-RestApi/blob/master/Cosmos-HttpTrigger-RestApi/Images/Cosmosdb.png)
 
 
